@@ -1,9 +1,0 @@
-Package: com.jjacksdaniel.bliize
-Name: Bliize
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A theme with beautiful boho pastel colors!
-Author: JJackDaniel
-Maintainer: JJackDaniel
-Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard
