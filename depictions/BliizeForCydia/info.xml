@@ -10,12 +10,12 @@
 	<dependencies>
 		<package>You'll need to install Snowboard or Anemone</package>
 	</dependencies>
-	<shortDescription>A theme with beautiful boho pastel colors!</shortDescription>
+	<shortDescription>By JJacksDaniel</shortDescription>
 	<descriptionlist>
 		<description>A theme with beautiful boho pastel colors!</description>
 		<description><![CDATA[
 		With more than<br/>
-		160 icons.
+		150 icons.
 		]]>
 		</description>
 	</descriptionlist>
@@ -24,6 +24,14 @@
 			<description>Bliize theme</description>
 			<image>shot1.jpg</image>
 		</screenshot>
+        <screenshot>
+            <description>This is a description for screenshot 2. It's another Cydia!</description>
+            <image>shot2.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>This is a description for screenshot 2. It's another Cydia!</description>
+            <image>shot3.jpg</image>
+        </screenshot>
 	</screenshots>
     <changelog>
         <change>Release Bliize</change>
@@ -32,7 +40,7 @@
 		<link>
 			<name>twitter</name>
 			<url>https://www.twitter.com/JJacksDaniel</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 	</links>
 </package>
