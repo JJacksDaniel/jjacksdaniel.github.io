@@ -7,15 +7,18 @@
 			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
+	<new>
+		<package>Released Bliize>
+	</dependencies>
 	<dependencies>
-		<package>com.anemonetheming.anemone | com.spark.snowboard</package>
+		<package>You'll need to install Snowboard or Anemone.>
 	</dependencies>
 	<shortDescription>A theme with beautiful boho pastel colors!</shortDescription>
 	<descriptionlist>
 		<description>A theme with beautiful boho pastel colors!</description>
 		<description><![CDATA[
-		With more<br/>
-		than 160 icons!
+		More<br/>
+		than 160 icons added.
 		]]>
 		</description>
 	</descriptionlist>
@@ -29,7 +32,7 @@
 		<link>
 			<name>twitter</name>
 			<url>https://twitter.com/jjacksdaniel</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 	</links>
 </package>
