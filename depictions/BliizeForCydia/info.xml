@@ -1,0 +1,35 @@
+<package>
+	<id>com.jjacksdaniel.bliize</id>
+	<name>Bliize</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone | com.spark.snowboard</package>
+	</dependencies>
+	<shortDescription>A theme with beautiful boho pastel colors!</shortDescription>
+	<descriptionlist>
+		<description>A theme with beautiful boho pastel colors!</description>
+		<description><![CDATA[
+		With more<br/>
+		than 160 icons!
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Beautiful pastel icons</description>
+			<image>shot1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<links>
+		<link>
+			<name>twitter</name>
+			<url>https://twitter.com/jjacksdaniel</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
