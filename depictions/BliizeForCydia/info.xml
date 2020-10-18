@@ -1,6 +1,6 @@
 <package>
 	<id>com.jjacksdaniel.bliize</id>
-	<name>Bliize</name>
+	<name>Bliize Theme</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -8,28 +8,28 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>You'll need to install Snowboard or Anemone.>
+		<package>You'll need to install Snowboard or Anemone</package>
 	</dependencies>
 	<shortDescription>A theme with beautiful boho pastel colors!</shortDescription>
 	<descriptionlist>
 		<description>A theme with beautiful boho pastel colors!</description>
 		<description><![CDATA[
-		More<br/>
-		than 160 icons added.
+		With more than<br/>
+		160 icons.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Beautiful pastel icons</description>
+			<description>Bliize theme</description>
 			<image>shot1.jpg</image>
 		</screenshot>
 	</screenshots>
 	<links>
 		<link>
 			<name>twitter</name>
-			<url>https://twitter.com/jjacksdaniel</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<url>https://www.twitter.com/JJacksDaniel</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
 </package>
