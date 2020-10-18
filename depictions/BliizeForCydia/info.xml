@@ -25,6 +25,9 @@
 			<image>shot1.jpg</image>
 		</screenshot>
 	</screenshots>
+    <changelog>
+        <change>First release</change>
+    </changelog>
 	<links>
 		<link>
 			<name>twitter</name>
