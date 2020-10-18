@@ -7,9 +7,6 @@
 			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
-	<new>
-		<package>Released Bliize>
-	</dependencies>
 	<dependencies>
 		<package>You'll need to install Snowboard or Anemone.>
 	</dependencies>
