@@ -33,22 +33,6 @@
             <image>shot3.jpg</image>
         </screenshot>
 	</screenshots>
-    <wallpapers>
-        <wallpapers>
-            <description>wallpaper 1</description>
-            <image>wall1.jpg</image>
-        </wallpapers>
-        <wallpapers>
-            <wallpapers>
-                <description>wallpaper 2</description>
-                <image>wall2.jpg</image>
-            </wallpapers>
-            <wallpapers>
-                <wallpapers>
-                    <description>wallpaper 3</description>
-                    <image>wall3.jpg</image>
-                </wallpapers>
-            </wallpapers>
     <changelog>
         <change>Release Bliize</change>
     </changelog>
