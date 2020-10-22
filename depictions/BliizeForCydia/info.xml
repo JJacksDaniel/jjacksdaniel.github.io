@@ -24,21 +24,13 @@
 			<description><p>
                 Setup:<br/>
                 <br/>
-                Lock screen: Jellyfish, Kai<br/>
-                Home screen: HS13, HSWidgets, Colorbadges, Boxy, ColorMyBattery, Shylabels13, Snowboard with Bliize Theme<br/>
-                Keyboard: Depths P, Barmoji<br/>
+                Lock screen: Jellyfish, Kai.<br/>
+                Home screen: HS13, HSWidgets, Colorbadges, Boxy, ColorMyBattery, Shylabels13, Snowboard with Bliize Theme.<br/>
+                Keyboard: Depths P, Barmoji.<br/>
             </p>
             </description>
-			<image>shot1.jpg</image>
+			<image>Bliize theme.jpg</image>
 		</screenshot>
-        <screenshot>
-            <description></description>
-            <image>shot2.jpg</image>
-        </screenshot>
-        <screenshot>
-            <description></description>
-            <image>shot3.jpg</image>
-        </screenshot>
 	</screenshots>
     <changelog>
         <change>Added 44 icons</change>
