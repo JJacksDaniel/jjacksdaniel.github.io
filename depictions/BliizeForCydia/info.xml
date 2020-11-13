@@ -1,7 +1,7 @@
 <package>
 	<id>com.jjacksdaniel.bliize</id>
 	<name>Bliize Theme</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -14,7 +14,7 @@
 	<descriptionlist>
 		<description>A beautiful clean theme with boho-pastel colors</description>
 		<description><![CDATA[
-		280+ icons available. More icons will be added.
+		315 icons available. More will be added.
         You can send your requests to the dev via Twitter or Reddit in a private message. Look at the bottom at Links. Wallpapers downloadable on Reddit.com
 		]]>
 		</description>
@@ -41,7 +41,7 @@
         </screenshot>
 	</screenshots>
     <changelog>
-        <change>Added 38 icons</change>
+        <change>Added 35 icons and restyled icon Apple App Store</change>
     </changelog>
 	<links>
 		<link>
